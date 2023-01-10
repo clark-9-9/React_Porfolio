@@ -6,7 +6,7 @@ import { UserPage } from "./UsersPage";
 import { Items } from "./Items";
 import { Items1000px } from "./Items";
 import { nanoid } from "nanoid";
-
+import { useNavigate } from "react-router-dom"
 
 export const ACTION_TYPES = {
   Menu:'Menu',
@@ -52,10 +52,12 @@ export function App() {
   const handleClose = () => {setMenu({ visibility: "hidden",  opacity: 0 })}
   const handleIncrease = () => (num === 11 ? setNum(0) : setNum(prev => prev + 1))
   const handleDecrease = () => (num === 0 ? setNum(11) : setNum(prev => prev - 1)) 
-
-
-
   const Prices = Items[num].price * Num_Of_Item;
+  const navigate = useNavigate();
+
+  useEffect(() => {
+    navigate("React_Porfolio")
+  }, [])
 
   const[cartID, setCartID ] = useState([
     {

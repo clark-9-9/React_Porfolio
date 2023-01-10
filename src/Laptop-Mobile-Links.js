@@ -11,7 +11,7 @@ export function LaptopLinks() {
 
     return (
         <article className="Navbar-article-2-Laptop-Texts">
-        <NavLink name="NavLink" to="/" 
+        <NavLink name="NavLink" to="React_Porfolio" 
         style={ ({isActive}) => { return {
             color: isActive ? "#CC5353" 
             : NavbarValue[0].display === 'none' 
@@ -76,7 +76,7 @@ export function MobileLinks() {
         >
         </ion-icon>
 
-        <NavLink nav='navlinks' name="NavLink" to="/" 
+        <NavLink nav='navlinks' name="NavLink" to="React_Porfolio" 
         style={ ({isActive}) => { return  {
             color: isActive ? "#CC5353" : "#131D3A" 
         }}} 
