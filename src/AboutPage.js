@@ -7,7 +7,7 @@ import { MessagePage } from "./MessengPage";
 export function AboutPage({ handleIncrease, handleDecrease }) {
 
     const AboutValue = useContext(Values)
-
+ 
     useEffect(() => {
         
         let body = document.getElementsByTagName('body')[0];
