@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/React_Porfolio/static/css/main.4b1c825b.css",
-    "main.js": "/React_Porfolio/static/js/main.3f77ed04.js",
+    "main.js": "/React_Porfolio/static/js/main.0863db6c.js",
     "static/media/mohamed-m-6MXDP9u6fmU-unsplash.jpg": "/React_Porfolio/static/media/mohamed-m-6MXDP9u6fmU-unsplash.6074e827ebacb8642572.jpg",
     "static/media/pexels-ray-piedra-1478442.jpg": "/React_Porfolio/static/media/pexels-ray-piedra-1478442.052a7422ad5b4f900449.jpg",
     "static/media/francois-hoang-gYVNvRygCUw-unsplash.jpg": "/React_Porfolio/static/media/francois-hoang-gYVNvRygCUw-unsplash.5209ecfccdd96d08a8fd.jpg",
@@ -17,10 +17,10 @@
     "static/media/pexels-josh-sorenson-1334598.jpg": "/React_Porfolio/static/media/pexels-josh-sorenson-1334598.ad431c4874fe57d6288f.jpg",
     "index.html": "/React_Porfolio/index.html",
     "main.4b1c825b.css.map": "/React_Porfolio/static/css/main.4b1c825b.css.map",
-    "main.3f77ed04.js.map": "/React_Porfolio/static/js/main.3f77ed04.js.map"
+    "main.0863db6c.js.map": "/React_Porfolio/static/js/main.0863db6c.js.map"
   },
   "entrypoints": [
     "static/css/main.4b1c825b.css",
-    "static/js/main.3f77ed04.js"
+    "static/js/main.0863db6c.js"
   ]
 }
