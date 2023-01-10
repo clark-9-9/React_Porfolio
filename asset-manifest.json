@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4b1c825b.css",
+    "main.js": "/static/js/main.9ddfe032.js",
+    "static/media/mohamed-m-6MXDP9u6fmU-unsplash.jpg": "/static/media/mohamed-m-6MXDP9u6fmU-unsplash.6074e827ebacb8642572.jpg",
+    "static/media/pexels-ray-piedra-1478442.jpg": "/static/media/pexels-ray-piedra-1478442.052a7422ad5b4f900449.jpg",
+    "static/media/francois-hoang-gYVNvRygCUw-unsplash.jpg": "/static/media/francois-hoang-gYVNvRygCUw-unsplash.5209ecfccdd96d08a8fd.jpg",
+    "static/media/pexels-shyam-mishra-9546375.jpg": "/static/media/pexels-shyam-mishra-9546375.42c635f218fdf683f60a.jpg",
+    "static/media/maxim-hopman-Hin-rzhOdWs-unsplash.jpg": "/static/media/maxim-hopman-Hin-rzhOdWs-unsplash.9f003e3f6d6158daf46d.jpg",
+    "static/media/brandon-romanchuk-qlyoC7TzDoE-unsplash.jpg": "/static/media/brandon-romanchuk-qlyoC7TzDoE-unsplash.e1d3f181da410dc7d126.jpg",
+    "static/media/Jack_Philippe_Wolf-removebg-preview.png": "/static/media/Jack_Philippe_Wolf-removebg-preview.858e3bb6ea0a9394ce4d.png",
+    "static/media/pexels-screen-post-9610815.jpg": "/static/media/pexels-screen-post-9610815.b0a2bcffb268bf2b2dd8.jpg",
+    "static/media/pexels-mnz-1598505.jpg": "/static/media/pexels-mnz-1598505.2c15b709f27b69b3f6b0.jpg",
+    "static/media/raamin-ka-AKGZCGqzRZc-unsplash.jpg": "/static/media/raamin-ka-AKGZCGqzRZc-unsplash.04628185c3d303b10eaf.jpg",
+    "static/media/pexels-hamza-nouasria-12611637.jpg": "/static/media/pexels-hamza-nouasria-12611637.abaca511fa764dd842a8.jpg",
+    "static/media/pexels-torsten-dettlaff-193004.jpg": "/static/media/pexels-torsten-dettlaff-193004.e70dd78ba5fde61dc2eb.jpg",
+    "static/media/pexels-josh-sorenson-1334598.jpg": "/static/media/pexels-josh-sorenson-1334598.ad431c4874fe57d6288f.jpg",
+    "index.html": "/index.html",
+    "main.4b1c825b.css.map": "/static/css/main.4b1c825b.css.map",
+    "main.9ddfe032.js.map": "/static/js/main.9ddfe032.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b1c825b.css",
+    "static/js/main.9ddfe032.js"
+  ]
+}
