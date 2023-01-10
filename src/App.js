@@ -165,7 +165,7 @@ export function App() {
           ]} 
           >
           <Routes>
-            <Route path="/" 
+            <Route path="/React_Porfolio" 
               element={ <HomePage />} 
             /> 
             <Route path="/about" 
